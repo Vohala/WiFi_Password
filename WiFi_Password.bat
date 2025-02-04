@@ -8,6 +8,25 @@ REM ----------------------------------------------------------------------------
 
 setlocal EnableDelayedExpansion
 
+echo. 
+echo.
+echo.
+
+color 06
+echo  ---------------------------------------------------------
+echo. \                                                       /
+echo  \  *       *   ***    *   *     *     *         *       /
+echo  \   *     *   ** **   *   *    * *    *        * *      /
+echo  \    *   *   **   **  *****   *****   *       *****     /
+echo  \     * *     ** **   *   *  *     *  *      *     *    /
+echo  \      *       ***    *   * *       * ***** *       *   /
+echo. \                                                       /
+echo  ---------------------------------------------------------
+
+echo. 
+echo.
+echo.
+
 echo Wi-Fi Profiles & Passwords > wifi_passwords.txt
 echo -------------------------------------------------------------------------------- >> wifi_passwords.txt
 echo  Developed by Vohala "Password finder" This tool is for education purpose only. >> wifi_passwords.txt
